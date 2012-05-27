@@ -13,7 +13,7 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-authors/id/D/DO/DOY/Package-Stash-XS-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Package/Package-Stash-XS-%{version}.tar.gz
 # Source0-md5:	52ece18842c46da8fb7a4a14dea910ab
 URL:		http://search.cpan.org/dist/Package-Stash-XS/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.31
