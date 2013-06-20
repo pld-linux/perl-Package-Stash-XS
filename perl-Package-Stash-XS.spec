@@ -8,13 +8,13 @@
 Summary:	Package::Stash::XS - faster and more correct implementation of the Package::Stash API
 Summary(pl.UTF-8):	Package::Stash::XS - szybsza i bardziej poprawna implementacja API Package::Stash
 Name:		perl-Package-Stash-XS
-Version:	0.25
-Release:	2
+Version:	0.26
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Package/Package-Stash-XS-%{version}.tar.gz
-# Source0-md5:	52ece18842c46da8fb7a4a14dea910ab
+# Source0-md5:	33b07af6344d4a16ecd4e9ae3fa48984
 URL:		http://search.cpan.org/dist/Package-Stash-XS/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.31
 BuildRequires:	perl-devel >= 1:5.8.1
