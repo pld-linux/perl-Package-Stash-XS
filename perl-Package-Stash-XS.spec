@@ -9,7 +9,7 @@ Summary:	Package::Stash::XS - faster and more correct implementation of the Pack
 Summary(pl.UTF-8):	Package::Stash::XS - szybsza i bardziej poprawna implementacja API Package::Stash
 Name:		perl-Package-Stash-XS
 Version:	0.26
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
