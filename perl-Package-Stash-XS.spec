@@ -67,6 +67,5 @@ rm -rf $RPM_BUILD_ROOT
 %dir %{perl_vendorarch}/auto/Package
 %dir %{perl_vendorarch}/auto/Package/Stash
 %dir %{perl_vendorarch}/auto/Package/Stash/XS
-%{perl_vendorarch}/auto/Package/Stash/XS/XS.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Package/Stash/XS/XS.so
 %{_mandir}/man3/Package::Stash::XS.3pm*
