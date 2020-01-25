@@ -4,7 +4,6 @@
 #
 %define		pdir	Package
 %define		pnam	Stash-XS
-%include	/usr/lib/rpm/macros.perl
 Summary:	Package::Stash::XS - faster and more correct implementation of the Package::Stash API
 Summary(pl.UTF-8):	Package::Stash::XS - szybsza i bardziej poprawna implementacja API Package::Stash
 Name:		perl-Package-Stash-XS
